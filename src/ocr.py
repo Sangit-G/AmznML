@@ -9,3 +9,5 @@ def get_image_to_text(img):
 
     return text
 
+
+
